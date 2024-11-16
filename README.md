@@ -21,9 +21,26 @@ Please follow the below check points for properly hardware setup
 </br>
 </br>
 <img src="media/awr1843boost_dca100_wiringdiagram.jpg" width="953" height="478" />
-<figcaption><b>Figure 1: AWR1843 + DCA1000 wiring diagram</b></figcaption>
+<figcaption><b>Figure 2: AWR1843 + DCA1000 wiring diagram</b></figcaption>
 </br>
 
 ## Raw ADC capture using Mmwave Studio
+### Mmwave Studio installation
+The following software should be installed before starting the mmWaveStudio
+1. Install mmWaveStudio from the installer package: https://www.ti.com/tool/MMWAVE-STUDIO
+2. Install 32-bit Matlab Runtime Engine (Version 8.5.1): https://in.mathworks.com/supportfiles/downloads/R2015a/deployment_files/R2015aSP1/installers/win32/MCR_R2015aSP1_win32_installer.exe
+3. Install FTDI Drivers: FTDI USB Driver (FTDI drivers will be installed automatically at the end of mmwavestudio installation. This step is only required if the automatic FTDI installation fails)
+4. Install Microsoft Visual C++ 2013 Redistributable package if using a Windows 10 machine from the link https://support.microsoft.com/en-us/help/3179560
+
+### Mmwave Studio startup
+After the installation is complete, the GUI executable and associated files will reside in the following directory: C:\ti\mmwave_studio_<ver>\mmWaveStudio
+1. Power up the DCA1000 and the xWR1843 BOOST-EVM
+2. To start the GUI, click on the file called “mmWaveStudio.exe", located under C:\ti\mmwave_studio_<ver>\mmWaveStudio\RunTime folder.
+3. Note: MmWave Studio should to be started in Administrator Mode
+</br>
+<img src="media/mmwave_studio_02_01_01_00_run_as_administrator.png" width="953" height="478" />
+<figcaption><b>Figure 3: MmWave Studio start up in Admin mode</b></figcaption>
+</br>
+
 
 ## Raw ADC capture using Matlab and DCA1000VM_CLI (Mmwave Studio not required)
