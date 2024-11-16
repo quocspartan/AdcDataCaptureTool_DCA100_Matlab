@@ -1,0 +1,4 @@
+cliComPortNum	12
+deviceMode	2
+configFileName	C:\ti\radar_toolbox_2_20_00_05\tools\Adc_Data_Capture_Tool_DCA1000_CLI\chirp_configs\xWR1843_profile_2d.cfg
+adcFileName	.\data\test_1843.bin
