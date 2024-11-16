@@ -5,16 +5,16 @@ This instruction will provide the details how to setup hardware (awr1843boost + 
 
 ## Hardware setup
 Please follow the below check points for properly hardware setup
-1. awr1843boost
-    a. SOP2:0 --> 011
-    b. S2 mux --> SPI
-    c. 5V power supply
-    d. Plug micro USB for command UART
-2. dca1000 
-    a. LVDS mode sel --> as per attached picture
-    b. 5V power supply
-    c. Plug micro USB for RADAR_FTDI
-    d. Ethernet cable PC <--> DCA1000
+### awr1843boost
+    1. SOP2:0 --> 011
+    2. S2 mux --> SPI
+    3. 5V power supply
+    4. Plug micro USB for command UART
+### dca1000 
+    1. LVDS mode sel --> as per attached picture
+    2. 5V power supply
+    3. Plug micro USB for RADAR_FTDI
+    4. Ethernet cable PC <--> DCA1000
 </br>
 <img src="media/awr1843boost_dca1000_settings.jpg" width="953" height="478" />
 <figcaption><b>Figure 1: AWR1843 + DCA1000 hardware setup</b></figcaption>
