@@ -44,7 +44,18 @@ After the installation is complete, the GUI executable and associated files will
 <figcaption><b>Figure 3: MmWave Studio start up in Admin mode</b></figcaption>
 </br>
 
-This video will show the details steps to setup Mmwave Studio and Lua script
+    4. Follow the step number per GUI instruction and select Lua script to run
+</br>
 <img src="media/Mmwave_Studo_run_Lua_script.gif" width="700" height="400" />
+<figcaption><b>Figure 4: MmWave Studio run steps</b></figcaption>
+</br>
+</br>
+<img src="media/mmwave_studio_02_01_01_00_run_lua_script_awr1843boost.png" width="700" height="400" />
+<figcaption><b>Figure 5: Run Lua script</b></figcaption>
+</br>
+</br>
+<img src="media/mmwave_studio_02_01_01_00_run_matlab_post_processing.png" width="700" height="400" />
+<figcaption><b>Figure 6: Matlab Post Processing</b></figcaption>
+</br>
 
 ## Raw ADC capture using Matlab and DCA1000VM_CLI (Mmwave Studio not required)
