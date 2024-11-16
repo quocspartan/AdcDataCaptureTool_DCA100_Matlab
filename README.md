@@ -45,6 +45,7 @@ After the installation is complete, the GUI executable and associated files will
 </br>
 
 This video will show the details steps to setup Mmwave Studio and Lua script
+![](media/Mmwave_Studo_run_Lua_script.mp4)
 
 <video width="953" height="478" controls>
   <source src="media/Mmwave_Studo_run_Lua_script.mp4" type="video/mp4">
