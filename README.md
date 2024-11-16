@@ -67,13 +67,13 @@ Run rawDataCaptureGUI_DCA1000CLI.m matlab script, located under matlabCaptureToo
     4. Select save folder for *.bin file
 
 </br>
-<img src="media/rawADC_capture_config.png" width="700" height="400" />
+<img src="media/rawADC_capture_config.png" width="600" height="400" />
 <figcaption><b>Figure 6: Raw ADC Capture GUI</b></figcaption>
 </br>
 
 2D FFT processing will run automatically after ADC data capture done.
 
 </br>
-<img src="media/2D_FFTOutput_nonCoherentCombination.png" width="700" height="400" />
+<img src="media/2D_FFTOutput_nonCoherentCombination.png" width="600" height="400" />
 <figcaption><b>Figure 7: Post processing - 2D FFT Non-Coherent Combination</b></figcaption>
 </br>
