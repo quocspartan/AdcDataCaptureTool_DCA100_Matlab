@@ -75,5 +75,5 @@ Run rawDataCaptureGUI_DCA1000CLI.m matlab script, located under matlabCaptureToo
 
 </br>
 <img src="media/2D_FFTOutput_nonCoherentCombination.png" width="700" height="400" />
-<figcaption><b>Figure 6: Post processing - 2D FFT Non-Coherent Combination</b></figcaption>
+<figcaption><b>Figure 7: Post processing - 2D FFT Non-Coherent Combination</b></figcaption>
 </br>
