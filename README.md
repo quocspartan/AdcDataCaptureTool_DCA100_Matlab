@@ -60,6 +60,7 @@ After the installation is complete, the GUI executable and associated files will
 
 ## Raw ADC capture using Matlab and DCA1000VM_CLI (Mmwave Studio not required)
 Run rawDataCaptureGUI_DCA1000CLI.m matlab script, located under matlabCaptureTool folder.
+
     1. Select command COM port
     2. Select xWR1843 platform Type
     3. Browse to *.cfg file
