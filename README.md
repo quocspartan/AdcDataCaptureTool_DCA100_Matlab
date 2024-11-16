@@ -38,7 +38,7 @@ After the installation is complete, the GUI executable and associated files will
 2. To start the GUI, click on the file called “mmWaveStudio.exe", located under C:\ti\mmwave_studio_<ver>\mmWaveStudio\RunTime folder.
 3. Note: MmWave Studio should to be started in Administrator Mode
 </br>
-<img src="media/mmwave_studio_02_01_01_00_run_as_administrator.png" width="953" height="478" />
+<img src="media/mmwave_studio_02_01_01_00_run_as_administrator.png" width="400" height="200" />
 <figcaption><b>Figure 3: MmWave Studio start up in Admin mode</b></figcaption>
 </br>
 
