@@ -6,7 +6,7 @@ This instruction will provide the details how to setup hardware (awr1843boost + 
 ## Hardware setup
 Please follow the below check points for properly hardware setup
 ### awr1843boost
-    1. SOP2:0 --> 011
+    1. SOP2:0 --> 011 (Mmwave Studio) --> 001 (DCA1000 CLI)
     2. S2 mux --> SPI
     3. 5V power supply
     4. Plug micro USB for command UART
