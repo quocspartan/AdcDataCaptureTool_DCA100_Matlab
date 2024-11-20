@@ -77,3 +77,17 @@ Run rawDataCaptureGUI_DCA1000CLI.m matlab script, located under matlabCaptureToo
 <img src="media/2D_FFTOutput_nonCoherentCombination.png" width="600" height="400" />
 <figcaption><b>Figure 7: Post processing - 2D FFT Non-Coherent Combination</b></figcaption>
 </br>
+
+
+### Awr1843AoP EVM and DCA1000
+#### Hardware setup
+</br>
+<img src="media/awr1843AoPEVM_DCA1000.png" width="600" height="400" />
+<figcaption><b>Figure 8: Awr1843AoP EVM and DCA1000 wiring diagram</b></figcaption>
+</br>
+
+#### Run Mmwave Studio
+Repeat the same steps as awr1843boost, however please run a customize Lua script for awr1843AoP at the following folder: matlabCaptureTool\Lua_scripts\DataCaptureDemo_xWR_1843Boost.lua
+
+#### Run Matlab and DCA1000EVM CLI
+Repeat the same steps as awr1843boost
