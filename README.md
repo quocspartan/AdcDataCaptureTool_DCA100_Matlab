@@ -87,7 +87,7 @@ Run rawDataCaptureGUI_DCA1000CLI.m matlab script, located under matlabCaptureToo
 </br>
 
 #### Run Mmwave Studio
-Repeat the same steps as awr1843boost, however please run a customize Lua script for awr1843AoP at the following folder: matlabCaptureTool\Lua_scripts\DataCaptureDemo_xWR_1843Boost.lua
+Repeat the same steps as awr1843boost, however please run a customized Lua script for awr1843AoP: matlabCaptureTool\Lua_scripts\DataCaptureDemo_xWR_1843Boost.lua
 
 #### Run Matlab and DCA1000EVM CLI
 Repeat the same steps as awr1843boost
