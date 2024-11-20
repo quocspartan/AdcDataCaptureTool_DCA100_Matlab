@@ -82,7 +82,7 @@ Run rawDataCaptureGUI_DCA1000CLI.m matlab script, located under matlabCaptureToo
 ### Awr1843AoP EVM and DCA1000
 #### Hardware setup
 </br>
-<img src="media/awr1843AoPEVM_DCA1000.png" width="600" height="400" />
+<img src="media/awr1843AoPEVM_DCA1000.jpg" width="600" height="400" />
 <figcaption><b>Figure 8: Awr1843AoP EVM and DCA1000 wiring diagram</b></figcaption>
 </br>
 
