@@ -23,7 +23,10 @@ Please follow the below check points for properly hardware setup
 <img src="media/awr1843boost_dca100_wiringdiagram.jpg" width="953" height="478" />
 <figcaption><b>Figure 2: AWR1843 + DCA1000 wiring diagram</b></figcaption>
 </br>
-
+</br>
+<img src="media/Static_IP_settings_HostPC.png" width="550" height="650" />
+<figcaption><b>Figure 2: AWR1843 + DCA1000 wiring diagram</b></figcaption>
+</br>
 ## Raw ADC capture using Mmwave Studio
 ### Mmwave Studio installation
 The following software should be installed before starting the mmWaveStudio
